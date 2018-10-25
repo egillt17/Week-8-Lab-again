@@ -1,0 +1,25 @@
+{
+  "name": "abname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start" : "node app.js",
+    "watch": "jest --watchAll",
+    "clean": "rm -rf node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egillt17/Week-8-Lab-again.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egillt17/Week-8-Lab-again/issues"
+  },
+  "homepage": "https://github.com/egillt17/Week-8-Lab-again#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
